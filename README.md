@@ -13,3 +13,5 @@ The hard drive fans are connected to fan headers assigned to the hard drive temp
 See the scripts for more info and commentary.
 
 Discussion on the FreeNAS forums: https://forums.freenas.org/index.php?threads/pid-fan-controller-perl-script.50908/
+
+## Updated to work in Linux
